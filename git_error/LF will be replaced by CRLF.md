@@ -16,4 +16,6 @@ Window 환경에서는 LF will be replaced.. 에러가 발생할 것이다.
 
 git이 자동으로 LF를 CRLF로 바꿔주는것이 상관없다면, 아래 명령어를 통해 경고메세지를 제거해줄 수 있다.  
 
-`git config core.autocrlf true`
+```
+git config core.autocrlf true
+```
