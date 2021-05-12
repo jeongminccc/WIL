@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git의 Staging Area(Index 영역)는 어떤 점에서 유용한가
 
 Git에는 Staging Area라는 공간이 있다. 어떤 변경사항이 저장소에 커밋되기 전에, 반드시 거쳐야만 하는 중간단계이다.  
@@ -28,6 +29,12 @@ Staging Area에 저장되어있는 '커밋될 예정인 내용들'은 쉽게 git
 - __Committed 상태__ : local Repo에 존재하는 파일들
 - __Staged 상태__ : local Repo로부터 Working dir에 Checkout한 후 파일을 수정하고 Staging Area에 추가 (이때 unstage상태로 되돌리려면 `git reset HEAD name` 을 입력해주면 된다)
 - __Modified 상태__ : local Repo로부터 Working dir에 Checkout한 후 파일을 수정하고 Staging Area에 추가X
+=======
+# Git의 Staging Area는 어떤 점에서 유용한가
+
+Git에는 Staging Area라는 공간이 있다. 어떤 변경사항이 저장소에 
+
+>>>>>>> d4f366719a985d16590e6b0f0a9490af3f892e28
 
 ### 출처
 - https://blog.npcode.com/2012/10/23/git%EC%9D%98-staging-area%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%A0%90%EC%9D%B4-%EC%9C%A0%EC%9A%A9%ED%95%9C%EA%B0%80/
