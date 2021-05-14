@@ -1,8 +1,10 @@
 # commit -am
 
+__(파일이 commit된 후의 상태여야함)__ 이 후 파일내에서 수정이 발생하고, 새로운 버전을 커밋할 경우 `git add` 없이 `git commit -am`으로 한번에 add, msg작성 작업을 할 수 있다.
 
+`git commit -a` 명령은 이전에 commit되었던 파일들 중 tracked, modified된 파일들을 자동적으로 stage하는 것이다. 
 
-# commit -amend
+# commit --amend
 
 마지막 커밋 메세지를 수정하는 방법이다. 이 명령은 자동으로 텍스트 편집기를 실행시켜 마지막 커밋 메세지를 열어준다. vim 편집기로 열리고 메세지를 바꾼 뒤 종료하면된다.  
 
