@@ -15,6 +15,18 @@
 루프를 돌면서 해당 위치에 넣을 원소를 선택하며 정렬하는 알고리즘이다. 매번 마지막 원소까지 모두 비교를 하기 때문에 최선, 최악, 평균 시간복잡도가 O(N^2)이다.  
 
 </details></br>
+
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Show all details</a>    
+</summary>
+This text is used as a placeholder or a tk note. Words that will follow won't make any sense and this is fine. At the moment, the goal is to build a structure for our site.
+
+Cheers!
+[Pascal](https://twitter.com/askpascalandy/)
+
+</details>
+
 # 삽입 정렬이란?
 
 2번째 원소부터 시작해 이전의 원소들과 비교해 자신이 삽입되어야 할 위치를 찾아나가며 정렬하는 알고리즘이다. 최선의 경우(이미 정렬 되어있는 경우) 한번씩만 비교하기때문에 O(N)의 시간복잡도가 걸리고, 최악과 평균은 O(N^2)의 시간복잡도를 갖는다.
