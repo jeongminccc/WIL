@@ -1,7 +1,7 @@
 # Algorithm
 
 <details>
-    <summary style="font-size : 40px;"><strong> Q) 거품정렬에 대해 설명해주세요</strong></summary></br>
+    <summary><strong> Q) 거품정렬에 대해 설명해주세요</strong></summary></br>
 
 서로 인접한 두 원소의 대소를 비교하고 조건에 맞지 않다면 자리를 교환하며 정렬하는 알고리즘이다.   
 
